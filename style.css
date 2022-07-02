@@ -1,0 +1,737 @@
+body{
+    padding: 0%;
+    margin: 0;
+}
+
+#sec1{
+background-color: rgb(249, 248, 248);
+display: flex;
+
+
+}
+
+.div1{
+    
+    list-style: none;
+    padding: 2%;
+    font-size: 30px;
+    margin-left: 4%;
+    color: rgb(15, 225, 155);
+    
+    }
+.div2{
+display: flex;
+list-style: none;
+padding: 2%;
+margin-left: 30%;
+margin-top: 7px;
+text-transform: capitalize;
+font-size: 20px;
+
+
+}
+.div2 li{
+    margin-left: 4%;
+}
+
+
+
+#sec2{
+ 
+    background-image: url(./aaaaa.jpg) ;
+  height: 510px;
+   
+    color: white;
+ border-bottom: 4px solid  rgb(0, 170, 255);
+  
+    padding: 12px;
+
+}
+
+
+.heading {
+    margin: 10% 5%;
+    width: 520px;
+    font-size: 25px;
+
+}
+.heading p{
+   font-size: 20px;
+
+}
+
+.heading button{
+ padding:10px;   
+ color: white;
+ background-color: rgb(0, 170, 255);
+ 
+ }
+
+
+ #sec3{
+    background-color: rgb(138, 157, 157);
+    padding: 30px 90px;
+    display: flex;
+ }
+
+ .div3 p{
+    width: 90%;
+ }
+ .btn{
+    background-color: rgb(0, 98, 255);
+    border: none;
+    border-radius: 6px;
+    color: white;
+   margin-top: 60px;
+    padding: 15px;
+    width: 150px;
+ }
+ 
+
+
+ .div4{
+    text-align: center;
+    margin-top: 5%;
+ }
+ .div4 h1{
+    font-size: 30px;
+ }
+ .div4 button{
+    background-color: rgb(0, 98, 255);
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+ }
+ .div4 p{
+    font-size: 20px;
+    padding: 0% 20%;
+    /* width: 800px; */
+    text-align: center;
+ }
+
+ .div5{
+    display: flex;
+ }
+ .div6{
+    padding-top: 4%;
+    padding-left: 8%;
+ }
+ .div7{
+    padding: 5%;
+ }
+ .div8{
+    display: flex;
+ }
+ .div8  img{
+    height: 70px;
+   margin: 20px;
+ }
+
+ .div7 div h1{
+    margin-left: 10px;
+ }
+
+ .div8 div  p{
+    margin-left: 20px;
+    font-size: 17px;
+ }
+
+ #sec5{
+    background-image: url(./installer_flash_background.jpg);
+    color: white;
+    padding-top: 1%;
+ }
+.div4 input{
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(0, 119, 255);
+    color: white;
+    border: none;
+}
+
+.img{
+    width: 100%;
+    margin-top: 3%;
+    position: relative;
+    top: 3px;
+}
+
+
+
+
+.div9{
+   display: flex;
+   padding: 3% 5%;
+
+}
+
+#sec7{
+   background-color: azure;
+   padding: 2%;
+}
+
+.div10{
+margin-left: 30% ;
+padding: 2%;
+
+}
+.div10 button{
+   padding: 1%;
+   border: none;
+
+
+}
+.btn3{
+   color: white;
+   background-color: rgb(68, 112, 200);
+}
+.div11{
+  padding: 8px 8%;
+  display: flex;
+  
+}
+
+.div11 img{
+   margin: 20px;
+}
+.div12{
+   display: flex;
+   padding-left: 10%;
+   padding-top: 1%;
+   padding-bottom: 7%;
+   padding-right: 10%;
+}
+
+.div13 div{
+   background-color: black;
+   width: 500px;
+   height: 340px;
+   margin-top: 20px;
+}
+.div13 hr{
+   width: 250px;
+   margin-left: 250px;
+   position: relative;
+   right: 250px;
+   background-color: rgb(0, 85, 255);
+   color: rgb(0, 85, 255);
+}
+.div14{
+   margin-left: 2%;
+}
+
+.div14 hr{
+   width: 250px;
+   margin-left: 250px;
+   position: relative;
+   right: 250px;
+}
+.div14 p{
+   font-size: 18px;
+}
+.d11{
+   display: flex;
+
+}
+
+
+
+.d13 div{
+   display: flex;
+  
+}
+
+.d12 div{
+   display: flex;
+   position: relative;
+   left: 70%;
+  
+}
+
+.btn4{
+   padding: 1%;
+   color: white;
+   background-color: rgb(63, 125, 219);
+   border: none;
+   margin-top: 10px;
+}
+
+#sec9{
+   background-image: url(./installer_flash_background.jpg);
+   padding: 50px;
+   color: white;
+}
+.div15{
+   display: flex;
+   
+padding-top: 3%;
+padding-left: 10%;
+padding-bottom: 3%;
+}
+.div15  i{
+   
+font-size: 30px;
+margin-left: 5%;
+border: solid 2px rgb(8, 145, 250);
+padding: 3%;
+border-radius: 100%;
+}
+
+.df1{
+   margin-left: 5%;
+}
+
+
+
+.df1 i{
+   font-size: 40px;
+
+border: solid 2px rgb(8, 145, 250);
+padding: 30%;
+border-radius: 100%;
+}
+
+
+
+
+
+
+
+.p16{
+   text-align: center;
+   font-size: 20px;
+
+}
+.div18{
+   display: flex;
+padding-left: 9%;
+padding-top: 4%;
+padding-bottom: 4%;
+ 
+   
+}
+.img9{
+  
+   width: 300px;
+  
+ 
+ 
+}
+.h12{
+   font-size: 25px;
+   
+}
+.div19{
+   background-color: rgb(149, 155, 155);
+  width: 300px;
+   margin: 8px;
+   
+  
+   
+}
+
+
+
+
+.p18{
+   display: flex;
+   padding: 2% 10%;
+}
+.p19{
+  
+  
+   
+   /* margin-right: 40px; */
+
+}
+
+.div17{
+   background-color: rgb(185, 193, 193);
+}
+
+.div20{
+   padding: 5%;
+}
+
+.div20 i{
+   font-size: 35px;
+   
+}
+
+
+
+#sec11{
+   background-image: url(./aaa.jpg);
+   padding-top: 4%;
+   color: white;
+   padding-bottom: 8%;
+   padding-left: 2%;
+   
+}
+
+.div21{
+   display: flex;
+   padding-top: 4%;
+   padding-left: 10%;
+   margin-left: 1%;
+}
+.div22{
+   margin-left: 5%;
+}
+
+.div23{
+ 
+
+   margin-left: 50px;
+   border: 2px solid white ;
+   border-radius: 100%;
+   width: 100px;
+   height: 100px;
+
+   
+   text-align: center;
+}
+
+.div23 h3{
+   margin-top: 40%;
+}
+
+
+#sec12{
+   background-image: url(./installer_flash_background.jpg);
+   padding: 50px;
+   color: white;
+}
+
+.i2{
+   width: 100px;
+   height: 100px;
+   border-radius: 100%;
+   border: solid 2px white;
+}
+
+.div24{
+   margin-left: 47%;
+}
+
+.div24 button{
+   width: 40px;
+   height: 40px;
+   background-color: rgb(64, 115, 234);
+   color: white;
+}
+
+
+.div26 img{
+   width: 460px;
+}
+.div26 p{
+   width: 460px;
+}
+
+.div26 {
+   width: 460px;
+
+   border: solid 1px black;
+}
+.div26 div{
+   /* width: 460px; */
+
+   
+}
+.div26 button{
+   background-color: rgb(0, 102, 255);
+   color: white;
+   border: none;
+   padding: 2%;
+}
+
+.div26 hr{
+   width: 440px;
+
+}
+.li{
+   display: flex;
+}
+.li li{
+   list-style: none;
+   margin-left: 3%;
+}
+
+.div25{
+   display: flex;
+   padding: 5% 10%;
+   margin-left: 6%;
+}
+.dd{
+   margin-left: 4%;
+   width: 300px;
+}
+.div26 h5{
+   color: rgb(0, 102, 255);
+}
+.div266{
+   width: 410px;
+   padding-left: 3%;
+  
+}
+.div266 p{
+   width: 430px;
+  
+}
+
+
+.div28 img{
+   height: 260px;
+   width: 180px;
+}
+.div28{
+   border: solid 1px black;
+   display: flex;
+   margin-left: 9%;
+   width: 550px;
+}
+
+.div28 p{
+   width: 350px;
+}
+
+
+.div29 img{
+   height: 260px;
+   width: 180px;
+}
+.div29{
+   border: solid 1px black;
+   width: 550px;
+
+   display: flex;
+   margin-left: 9%;
+   margin-top: 9%;
+}
+
+.div29 p{
+   width: 350px;
+}
+.dd button{
+   background-color: rgb(0, 102, 255);
+   color: white;
+   border: none;
+   padding: 2%;
+}
+
+.dd hr{
+   width: 330px;
+}
+
+.dd h5{
+   color: rgb(0, 102, 255);
+}
+
+.li1{
+   display: flex;
+}
+.li1 li{
+   list-style: none;
+   margin-left: 4%;
+}
+
+#sec14{
+   background-color: rgb(0, 136, 255);
+   padding: 50px;
+   color: white;
+}
+
+
+.div5a{
+   text-align: center;
+   margin-top: 5%;
+}
+.div5a h1{
+   font-size: 30px;
+}
+.div5a button{
+   background-color: rgb(43, 0, 255);
+   border-radius: 100%;
+   width: 20px;
+   height: 20px;
+   border: solid 2px white;
+}
+.div5a p{
+   font-size: 20px;
+   padding: 0% 20%;
+   /* width: 800px; */
+   text-align: center;
+}
+
+#div2{
+   background-color: rgb(59, 54, 54);
+   padding: 20px;
+   display: flex;
+}
+.divt{
+color: white;
+font-size: 20px;
+padding-top: 10px;
+margin-left: 40px;
+
+}
+.nav{
+margin-left: 70%;
+padding-top: 40px;
+color: white;
+display: flex;
+}
+.nav i{
+   font-size: 40px;
+   border-radius: 100%;
+   margin: 8%;
+}
+
+#sec15{
+   display: flex;
+}
+
+
+
+ 
+ .loremlast {
+  background-color: rgb(229, 236, 236);
+  padding: 2%;
+
+   
+ 
+ }
+ .loremlast input{
+   width: 300px;
+ }
+ .loremlast textarea{
+   width: 300px;
+
+ }
+
+ .loremlast button{
+  padding: 3%;
+  background-color: rgb(18, 173, 235);
+  color: white;
+  margin-top: 2%;
+  border: none;
+
+ }
+
+
+ @media (max-width : 700px){
+   #sec1{
+      background-color: rgb(249, 248, 248);
+      display: none;
+      
+      
+      }
+
+      #sec2{
+ 
+         background-image: url(./aaaaa.jpg) ;
+       height: 510px;
+        
+         color: white;
+      border-bottom: 4px solid  rgb(0, 170, 255);
+       
+         padding: 12px;
+     
+     }
+
+
+     #sec3{
+      background-color: rgb(138, 157, 157);
+      padding: 20px 70px;
+      display: flex;
+   }
+
+
+   .div5{
+      flex-direction: column;
+   }
+
+
+   .div9{
+     flex-direction: column;
+      padding: 3% 5%;
+   
+   }
+   .div10{
+      display: none;
+   }
+
+   .div11{
+      flex-direction: column;
+   }
+   .div12{
+      flex-direction: column;
+
+
+   }
+
+   .div15{
+  
+      display: none;
+      
+   }
+
+   .div18{
+      flex-direction: column;
+      margin-left: 20%;
+   }
+   
+   .div21{
+      display: none;
+   }
+
+  .div25{
+   flex-direction: column;
+  }
+  .div28{
+  display: none;
+  }
+  .div29{
+  display: none;
+
+  }
+  
+  #div2{
+   display: none;
+  }
+  .loremlast{
+   position: relative;
+   right: 10px;
+  }
+  
+    }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
